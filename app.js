@@ -15,5 +15,9 @@ for (startNumber = 1; startNumber < 100; startNumber++) {
 
   else {
     document.write(startNumber+"<br>");
-  }
+ } else {
+	// hello there
+}  
+
+
 }
