@@ -6,7 +6,9 @@ for (startNumber = 1; startNumber < 100; startNumber++) {
     document.write(fizz+buzz+"<br>");
 
   else if (startNumber%5 === 0) {
+    document.write(buzz+"<br>");\
     document.write(buzz+"<br>");
+    document.write(buzz+"your mom");
   }
 
   else if (startNumber%3 === 0) {
